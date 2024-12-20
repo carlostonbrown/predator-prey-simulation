@@ -1,0 +1,8 @@
+due to the randomness of evolution, not all simulations will be successful. some times prey may go extinct sometimes predators may go extinct. 
+in the last few hours of testing neither of these happened and I achieved stable but fluctuating populations. please close and re run if any species go extinct. 
+
+CONTROLS---------------------
+
+click on agents to view their ray casts, a visualisation of their neural network, and bars displaying their energy and reproduction timers.
+press N to change NN visualisation mode
+press G to display graphs 
